@@ -5,6 +5,6 @@ int main()
 {
 	setlocale(LC_ALL, "Russian");
 	int i = 1;
-	cout << "Ðåçóëüòàò: " << ++i * i++ << endl;
+	cout << "Ð ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚: " << ++i * i++ << endl;
 	return 0;
 }
